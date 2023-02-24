@@ -4,7 +4,7 @@ Qualquer coisa referente ao git se usa **git** no código.
 
 Para iniciar precisa usar um código **git init** para criar uma pasta .git no local.
 
-Depois referenciar seu gmail e nome usando os códigos **git config --global user.email "o seu email"** e **git config --global user.name "seu nome"**.
+Se ainda não tiver referenciado seu gmail e nome use os códigos **git config --global user.email "o seu email"** e **git config --global user.name "seu nome"**.
 
 ### Sistema de Save
 
